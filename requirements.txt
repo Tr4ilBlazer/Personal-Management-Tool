@@ -1,0 +1,7 @@
+Tkinter
+plyer
+sqlite3
+matplotlib
+customtkinter
+ttkthemes
+tkcalender
